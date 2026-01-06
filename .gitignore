@@ -1,0 +1,41 @@
+# Dependencies
+/target/
+/sentinel_core/target/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs (keep structure, not contents)
+mission_logs/**/!COUNCIL_REPORT.md
+
+# Sensitive - DO NOT COMMIT
+*.key
+*.pem
+secrets/
+
+# LaTeX artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Work in progress - not ready for public
+Paper1_PRB_Format.*
+Paper2_PRB_Format.*
+Paper3_PRB_Format.*
+*.bib
