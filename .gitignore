@@ -39,3 +39,6 @@ Paper1_PRB_Format.*
 Paper2_PRB_Format.*
 Paper3_PRB_Format.*
 *.bib
+
+# Private funding materials
+funding/
