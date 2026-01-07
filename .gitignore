@@ -42,3 +42,16 @@ Paper3_PRB_Format.*
 
 # Private funding materials
 funding/
+
+# DARPA materials - sensitive until submission
+DARPA_*.md
+
+# VS Code workspace settings
+.vscode/
+
+# Detailed mission logs (keep COUNCIL_REPORT only)
+mission_logs/**/*.json
+mission_logs/**/*.log
+
+# Private assessments
+theses_assesment.md
